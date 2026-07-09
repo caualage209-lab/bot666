@@ -8,8 +8,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
-BOT_TOKEN = "SEU_TOKEN_AQUI"
-ADMIN_ID = 123456789   # Coloque seu ID do Telegram
+BOT_TOKEN = "8806372148:AAG5KvpIAcO97IM-A00DfznguWu5eQ5qGp0"
+ADMIN_ID = 851840645   # Coloque seu ID do Telegram
 
 # ==================== PROXIES ====================
 proxies = [
